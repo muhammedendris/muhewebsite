@@ -5,10 +5,13 @@ padding: 0;
 box-sizing: border-box;
 font-family: 'Courier New', Courier, monospace;
 }
+@media screen and (min-width:1200px)
+{
 body
 {
   color: #ededed; 
   background-color: black; 
+}
 }
 .header
 {
